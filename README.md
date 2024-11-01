@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![chicobami's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicobami&theme=vue-dark&show_icons=true)](https://github.com/chicobami/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicobami&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/chicobami/github-readme-stats)
+<a href="https://github.com/chicobami/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chicobami&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/chicobami/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicobami&count_private=true&show_icons=true" />
+</a>
